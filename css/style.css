@@ -1,0 +1,32 @@
+
+body { background-color: #242E31;
+}
+div{
+    width: 922px;
+    margin: 220px auto;
+
+}
+article {
+    width: 551px;
+    margin-bottom: 96px;
+}
+h2 {
+    font-size: 40px;
+    color: #F8DFB0;
+    font-weight: 700px;
+    font-family: 'Libre Franklin',sans-serif;
+    margin-bottom: 16px;
+}
+p {
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 400px;
+    font-family: 'Numans', sans-serif;
+    color: #EADFCA;
+    ;
+
+}
+.alinhado-direita{
+    text-align: right;
+    margin-left: auto;
+}
